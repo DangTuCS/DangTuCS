@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dang Tu</h1>
 <h3 align="center">A passionate flutter developer from Vietnam</h3>
-
+<img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="built with love badge" />
 - 📫 How to reach me **dangtu12350@gmail.com**
 
 <p align="left">
