@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Dang Tu</h1>
 <h3 align="center">A passionate flutter developer from Vietnam</h3>
 <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="built with love badge" />
+
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DangTuCS&theme=dark&background=000000)](https://git.io/streak-stats)
 - 📫 How to reach me **dangtu12350@gmail.com**
-
-<p align="left">
-</p>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DangTuCS&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Languages and Tools:</h3>
