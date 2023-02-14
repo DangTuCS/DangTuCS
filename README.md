@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dang Tu</h1>
 <h3 align="center">A passionate flutter developer from Vietnam</h3>
 <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="built with love badge" />
-https://github-readme-stats.vercel.app/api?username=DangTuCS&show_icons=true&theme=react
+<div>https://github-readme-stats.vercel.app/api?username=DangTuCS&show_icons=true&theme=react</div>
 - 📫 How to reach me **dangtu12350@gmail.com**
 
 <p align="left">
